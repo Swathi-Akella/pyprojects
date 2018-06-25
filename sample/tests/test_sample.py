@@ -23,3 +23,4 @@ class TruthTest(unittest.TestCase):
 
     def test_assert_False(self):
         self.assertFalse('a' == 'b')
+
